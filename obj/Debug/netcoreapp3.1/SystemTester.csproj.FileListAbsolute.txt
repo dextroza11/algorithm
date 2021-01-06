@@ -1,0 +1,13 @@
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\bin\Debug\netcoreapp3.1\SystemTester.exe
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\bin\Debug\netcoreapp3.1\SystemTester.deps.json
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\bin\Debug\netcoreapp3.1\SystemTester.runtimeconfig.json
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\bin\Debug\netcoreapp3.1\SystemTester.runtimeconfig.dev.json
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\bin\Debug\netcoreapp3.1\SystemTester.dll
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\bin\Debug\netcoreapp3.1\SystemTester.pdb
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.csprojAssemblyReference.cache
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.AssemblyInfoInputs.cache
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.AssemblyInfo.cs
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.csproj.CoreCompileInputs.cache
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.dll
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.pdb
+C:\Users\евгений\source\repos\algorithm\tester\SystemTester\obj\Debug\netcoreapp3.1\SystemTester.genruntimeconfig.cache
